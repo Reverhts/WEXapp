@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ASVweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7DF1795E9D0040DDA318CB3018060B15 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63C408600EC04DFC942BFCD995C21E2C }}
           package: .
