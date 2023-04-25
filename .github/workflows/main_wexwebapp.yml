@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'WEXwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB1F19DCDF0C45359E48719F912B91B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8A3CF28D36744B2B97C28B22F7C9388 }}
